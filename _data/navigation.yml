@@ -2,3 +2,9 @@ main:
   - title: <i class="fa-solid fa-house"></i>
     description: Pink Pistols Chicago
     url: /
+  - title: <i class="fa-solid fa-calendar"></i> Calendar
+    description: View upcoming events and classes
+    url: /calendar
+  - title: <i class="fa-solid fa-circle-info"></i> About
+    description: Learn more about Pink Pistols Chicago
+    url: /about

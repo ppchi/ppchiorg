@@ -41,7 +41,7 @@ atom_feed:
 
 # Build settings
 theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "aqua"
+minimal_mistakes_skin: "default"
 
 plugins:
   - jekyll-sitemap
