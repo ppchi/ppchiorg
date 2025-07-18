@@ -34,6 +34,9 @@ author:
     - label: "info@ppchi.org"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:info@ppchi.org"
+    - label: "Join the Discord"
+      icon: "fab fa-fw fa-discord"
+      url: "https://discord.gg/WJqHqWb3qv"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/pinkpistolschi"
@@ -43,6 +46,9 @@ author:
 
 footer:
   links:
+    - label: ""
+      icon: "fab fa-fw fa-discord"
+      url: "https://discord.gg/WJqHqWb3qv"
     - label: ""
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/pinkpistolschi"
