@@ -27,6 +27,28 @@ url: "https://ppchi.org" # the base hostname & protocol for your site, e.g. http
 # logo: /images/logo.jpg
 # masthead_title: " "
 
+author:
+  bio: |
+    Find us online and get in contact
+  links:
+    - label: "info@ppchi.org"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:info@ppchi.org"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/pinkpistolschi"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/ppchi.org"
+
+footer:
+  links:
+    - label: ""
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/pinkpistolschi"
+    - label: ""
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/ppchi.org"
 
 defaults:
   - scope:
