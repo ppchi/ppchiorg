@@ -24,8 +24,8 @@ description: |
   Pink Pistols Chicago is the Chicago chapter of Pink Pistols, a national LGBTQ+ firearms advocacy organization.
 copyright: Pink Pistols Chicago
 url: "https://ppchi.org" # the base hostname & protocol for your site, e.g. http://example.com
-# logo: /images/logo.jpg
-# masthead_title: " "
+logo: /images/masthead.png
+masthead_title: " "
 
 author:
   bio: |
