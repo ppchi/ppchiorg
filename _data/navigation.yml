@@ -5,6 +5,9 @@ main:
   - title: <i class="fa-solid fa-calendar"></i> Calendar
     description: View upcoming events and classes
     url: /calendar
+  - title: <i class="fa-solid fa-ticket-simple"></i> Events
+    description: See what type of events we host
+    url: /events
   - title:  <i class="fa-solid fa-globe"></i> Resources
     description: Helpful links to outside resources
     url: /resources

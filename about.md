@@ -14,6 +14,10 @@ From the National Pink Pistols group:
 >
 > The Pink Pistols are the ones who have decided to no longer be safe targets. They have teeth. They will use them.
 
+## Where do you meet up?
+
+Typically we shoot at either [Maxon](https://www.maxonshooters.com/) or [Shore Galleries](https://shoregalleries.com/). Check out our [calendar](/calendar) for more info on upcoming events.
+
 ## Who's in charge of this thing?
 
 Want to help out? Send an email to info@ppchi.org and let us know!

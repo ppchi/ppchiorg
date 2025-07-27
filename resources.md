@@ -7,10 +7,20 @@ Here are some various links to external sites to help you out
 # Social Groups
 
 [Pink Pistols Chicago Discord](https://discord.gg/WJqHqWb3qv)<br />
-A local Chicago chapter of the Pink Pistols, a national LGBTQ+ firearms advocacy group.
+Join our Discord to chat with us outside of our regular meetups!
 
 [Stonewall Underground Discord](https://discord.gg/HHgsg65CTb)<br />
-Firearms-focused space dedicated to supporting, organizing, and uplifting the LGBT community and our allies.
+Firearms-focused space dedicated to supporting, organizing, and uplifting the LGBTQ community and our allies.
+
+# Shooting Ranges
+
+Management at these ranges have explicitly expressed to us their support for creating a safe space for LGBTQ+ folks to shoot.
+
+[Shore Galleries](https://shoregalleries.com/) - Lincolnwood, IL
+
+[Maxon](https://www.maxonshooters.com/) - Des Plaines, IL
+
+*Want your range on the list? Email info@ppchi.org and let's talk!*
 
 # Government Portals
 

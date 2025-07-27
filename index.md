@@ -1,8 +1,10 @@
 ---
 ---
 
-Pink Pistols Chicago is back! Check out the [calendar](/calendar) and join us for a meetup. No registration or sign-up is required.
+Pink Pistols Chicago is back!
 
-Join us on [Discord](https://discord.gg/WJqHqWb3qv) to come and say hello!
+[<i class="fa-solid fa-ticket-simple"></i>&nbsp;See our upcoming events](/calendar){: .btn .btn--wide .btn--info .btn--large}
 
-Subscribe to [our calendar on Luma](https://lu.ma/pinkpistolschicago) to receive updates on future events.
+[<i class="fab fa-discord"></i>&nbsp;Join our Discord server](https://discord.gg/WJqHqWb3qv){: .btn .btn--wide .btn--info .btn--large}
+
+[<i class="fa-solid fa-calendar"></i>&nbsp;Subscribe to our Luma Calendar](https://lu.ma/pinkpistolschicago){: .btn .btn--wide .btn--info .btn--large}

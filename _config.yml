@@ -56,6 +56,11 @@ footer:
       icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/ppchi.org"
 
+collections:
+  events:
+    output: true
+    permalink: /:collection/:path/
+
 defaults:
   - scope:
       path: ""
