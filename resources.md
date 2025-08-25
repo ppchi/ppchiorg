@@ -37,6 +37,8 @@ This is the website where you can submit your FOID/CCL applicaiton and update in
 
 [Illinois Criminal Code — Deadly Weapons](https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&ChapAct=720+ILCS+5%2F&SeqStart=68600000&SeqEnd=72000000)
 
+[Illinois Criminal Code — Justifiable Use of Force](https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&ChapAct=720+ILCS+5%2F&SeqStart=8300000&SeqEnd=9899999)
+
 # Outside Organizations
 
 [Walk the Talk America](https://walkthetalkamerica.org/)<br />

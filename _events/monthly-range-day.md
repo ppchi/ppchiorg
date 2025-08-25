@@ -1,0 +1,25 @@
+---
+title: Monthly Range Day
+redirect_from:
+  - /events/monthly-range-meetup/
+  - /events/monthly-range-meetup
+---
+
+Come learn safe firearms handling and practice your skills with us!
+
+Our monthly range day is an **open event** which means that allies and other queer-aligned folks who support our mission are more than welcome to join. ❤️
+
+These range trips require **at least an "amateur" or "comfortable"** level of experience with firearms and shooting. You should already be familiar with handling a firearm, have a valid FOID card, and be able to provide or rent your own firearm.
+
+Typically for these meetups we will grab some food at a casual restaurant nearby the range for about an hour. After that we'll all head over to the range and shoot some guns for an hour before parting ways.
+
+<iframe
+  src="https://lu.ma/embed/calendar/cal-xPYdgTx1eAaLACw/events?lt=light&tag=range%20day"
+  frameborder="0"
+  style="width: 100%; height: 35em; border: 1px solid #bfcbda88; border-radius: 4px;"
+  allowfullscreen=""
+  aria-hidden="false"
+  tabindex="0"
+></iframe>
+
+[Check out the full calendar of events](https://lu.ma/uoret9sp?utm_source=ppchi-events-mrd){: .btn .btn--wide .btn--info .btn--large}
