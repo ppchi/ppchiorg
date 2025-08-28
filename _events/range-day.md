@@ -1,6 +1,8 @@
 ---
 title: Monthly Range Day
 redirect_from:
+  - /events/monthly-range-day/
+  - /events/monthly-range-day
   - /events/monthly-range-meetup/
   - /events/monthly-range-meetup
 ---
@@ -22,4 +24,4 @@ Typically for these meetups we will grab some food at a casual restaurant nearby
   tabindex="0"
 ></iframe>
 
-[Check out the full calendar of events](https://lu.ma/uoret9sp?utm_source=ppchi-events-mrd){: .btn .btn--wide .btn--info .btn--large}
+[Check out the full calendar of events](https://lu.ma/uoret9sp?utm_source=ppchi-events-rd){: .btn .btn--wide .btn--info .btn--large}
