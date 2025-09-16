@@ -65,7 +65,12 @@ footer:
 collections:
   events:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:path
+    order:
+      - range-day.md
+      - social.md
+      - intro-class.md
+      - advanced-class.md
 
 defaults:
   - scope:
