@@ -1,5 +1,6 @@
 ---
 title: About
+toc: true
 ---
 
 Still on the fence? Learn more about us!
@@ -24,9 +25,13 @@ Typically we shoot at either [Maxon](https://www.maxonshooters.com/) or [Shore G
 
 We align with the policy of the national Pink Pistols organization of not keeping a list of members and never charging dues. Our events are open to the public and anyone may self-identify as a member of the Pink Pistols. We have no voting members and are managed by the Board of Directors of our not-for-profit organization.
 
+## What are your politics?
+
+The Pink Pistols is a "single-issue" organization that focuses our efforts on the safe, legal, and effective use of firearms for self-defense. The Chicago chapter leadership would not describe themselves as "apolitical", but we do not take a public stance on behalf of the organization for issues that do not relate to our core mission.
+
 ## Who's in charge of this thing?
 
-Want to help out? Send an email to info@ppchi.org and let us know!
+Want to help out? Send an email to [info@ppchi.org](mailto:info@ppchi.org) and let us know!
 
 ![Raye Evtuch](/images/raye.jpg){: .align-left .image-left .profile-photo }
 
