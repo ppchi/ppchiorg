@@ -7,7 +7,7 @@ Still on the fence? Learn more about us!
 
 ## What are you?
 
-Pink Pistols Chicago is a charitable not-for-profit corporation registered in Illinois.
+Pink Pistols Chicago is a 501(c)(3) public charity registered in Illinois. Donations to Pink Pistols Chicago are tax-deductible under Section 170 of the Internal Revenue Code. Find more information on our [disclosures](/disclosures) page.
 
 From our bylaws:
 
