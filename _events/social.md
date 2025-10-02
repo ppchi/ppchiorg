@@ -1,6 +1,7 @@
 ---
 title: Social Events
 redirect_from:
+  - /events/social/
   - /events/happy-hour/
   - /events/happy-hour
   - /social

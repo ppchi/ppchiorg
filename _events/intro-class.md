@@ -1,6 +1,7 @@
 ---
 title: Intro Classes
 redirect_from:
+  - /events/intro-class/
   - /intro
 ---
 

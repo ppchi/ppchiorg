@@ -1,6 +1,7 @@
 ---
 title: Advanced Classes
 redirect_from:
+  - /events/advanced-class/
   - /advanced
 ---
 

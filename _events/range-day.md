@@ -2,6 +2,7 @@
 title: Range Day
 redirect_from:
   - /rangeday
+  - /events/range-day/
   - /events/monthly-range-day/
   - /events/monthly-range-day
   - /events/monthly-range-meetup/
