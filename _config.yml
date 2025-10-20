@@ -46,6 +46,12 @@ author:
     - label: "Bluesky"
       icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/ppchi.org"
+    - label: "Donate"
+      icon: "fas fa-fw fa-hand-holding-dollar"
+      url: "https://givebutter.com/ppchi?utm_source=ppchi-site-links"
+    - label: "<img src=\"https://widgets.guidestar.org/prod/v1/pdp/transparency-seal/16402577/svg\" style=\"width: 80%;max-width: 8em;\" />"
+      icon: " "
+      url: https://app.candid.org/profile/16402577/pink-pistols-chicago-39-3799509
 
 footer:
   links:
@@ -61,6 +67,9 @@ footer:
     - label: ""
       icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/ppchi.org"
+    - label: ""
+      icon: "fas fa-fw fa-hand-holding-dollar"
+      url: "https://givebutter.com/ppchi?utm_source=ppchi-site-footer"
 
 collections:
   events:
