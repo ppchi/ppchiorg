@@ -11,6 +11,8 @@ redirect_from:
 
 [<i class="fa-solid fa-calendar"></i>&nbsp;Events Calendar](https://lu.ma/pinkpistolschicago?utm_source=ppchi-links){: .btn .btn--wide .btn--info .btn--large}
 
+[<i class="fa-solid fa-hand-holding-dollar"></i>&nbsp;Donate](https://givebutter.com/ppchi?utm_source=ppchi-links){: .btn .btn--wide .btn--info .btn--large}
+
 [<i class="fab fa-tiktok"></i>&nbsp;TikTok](https://www.tiktok.com/@pinkpistolschi){: .btn .btn--wide .btn--info .btn--large}
 
 [<i class="fab fa-instagram"></i>&nbsp;Instagram](https://www.instagram.com/pinkpistolschi){: .btn .btn--wide .btn--info .btn--large}
