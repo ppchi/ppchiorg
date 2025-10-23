@@ -7,6 +7,8 @@ redirect_from:
 ---
 [<i class="fa-solid fa-id-card"></i>&nbsp;Apply for a FOID Card](https://www.ispfsb.com/Public/FOID.aspx){: .btn .btn--wide .btn--info .btn--large}
 
+[<i class="fa-solid fa-chalkboard-user"></i>&nbsp;Stop The Bleed Class](https://luma.com/sb23nr5m?utm_source=ppchi-links){: .btn .btn--wide .btn--info .btn--large}
+
 [<i class="fab fa-discord"></i>&nbsp;Join Our Discord](https://discord.gg/WJqHqWb3qv){: .btn .btn--wide .btn--info .btn--large}
 
 [<i class="fa-solid fa-calendar"></i>&nbsp;Events Calendar](https://lu.ma/pinkpistolschicago?utm_source=ppchi-links){: .btn .btn--wide .btn--info .btn--large}
