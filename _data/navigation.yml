@@ -11,6 +11,9 @@ main:
   - title:  <i class="fa-solid fa-hand-holding-dollar"></i> Donate
     description: Donate to help support our mission
     url: /donate
+  - title:  <i class="fa-solid fa-shirt"></i> Merch
+    description: Buy Pink Pistols Chicago merchandise
+    url: https://store.ppchi.org
   - title:  <i class="fa-solid fa-globe"></i> Resources
     description: Helpful links to outside resources
     url: /resources
