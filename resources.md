@@ -27,11 +27,13 @@ Management at these businesses have explicitly expressed to us their support for
 
 [Shore Galleries](https://shoregalleries.com/) - Lincolnwood, IL
 
-[Maxon](https://www.maxonshooters.com/) - Des Plaines, IL
+[Maxon](https://www.maxonshooters.com/shooting-range/) - Des Plaines, IL
 
 ## Trainers
 
 [Archetype of the Gun](https://archetypeofthegun.com/) - Lincolnwood, IL
+
+[Maxon](https://www.maxonshooters.com/training/) - Des Plaines, IL
 
 [Titan Tactical](https://titan-tactical.com/) - Kankakee, IL
 

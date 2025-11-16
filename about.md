@@ -27,7 +27,7 @@ We align with the policy of the national Pink Pistols organization of not keepin
 
 ## What are your politics?
 
-The Pink Pistols is a "single-issue" organization that focuses our efforts on the safe, legal, and effective use of firearms for self-defense. The Chicago chapter leadership would not describe themselves as "apolitical", but we do not take a public stance on behalf of the organization for issues that do not relate to our core mission.
+The Pink Pistols is a "single-issue" organization that focuses our efforts on the safe, legal, and effective use of firearms for self-defense. The Chicago chapter leadership would not describe ourselves as "apolitical", but we do not take a public stance on behalf of the organization for issues that do not relate to our core mission.
 
 ## Who's in charge of this thing?
 
