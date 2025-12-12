@@ -33,8 +33,8 @@ The Pink Pistols is a "single-issue" organization that focuses our efforts on th
 
 Want to help out? Send an email to [info@ppchi.org](mailto:info@ppchi.org) and let us know!
 
-![Raye Evtuch](/images/raye.jpg){: .align-left .image-left .profile-photo }
+![Raye](/images/raye.jpg){: .align-left .image-left .profile-photo }
 
-### Raye Evtuch (they/them)
+### Raye (they/them)
 **President**<br />
 Raye is an Illinois certified concealed carry license instructor. You can learn more about their classes and online educational content at the [Ready Rainbow](https://readyrainbow.com) website.
