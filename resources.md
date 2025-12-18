@@ -10,7 +10,7 @@ Here are some various links to external sites to help you out
 [Pink Pistols Chicago Discord](https://discord.gg/WJqHqWb3qv)<br />
 Join our Discord to chat with us outside of our regular meetups!
 
-[Pink Pistols Chicago Calendar](https://lu.ma/pinkpistolschicago?utm_source=ppchi-resources)<br />
+[Pink Pistols Chicago Calendar](https://luma.com/pinkpistolschicago?utm_source=ppchi-resources)<br />
 Subscribe to our Calendar to get updates on future events.
 
 [Stonewall Underground Discord](https://discord.gg/HHgsg65CTb)<br />

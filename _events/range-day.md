@@ -17,6 +17,6 @@ You should already be familiar with handling a firearm, have a valid FOID card, 
 
 Typically for these meetups we will grab some food at a casual restaurant nearby the range for about an hour. After that we'll all head over to the range and shoot some guns for an hour before parting ways.
 
-<iframe src="https://lu.ma/embed/calendar/cal-xPYdgTx1eAaLACw/events?lt=light&tag=Range%20Day&utm_source=ppchi-events-rd" frameborder="0" style="width: 100%; height: 40em; border: 1px solid #bfcbda88; border-radius: 4px;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+<iframe src="https://luma.com/embed/calendar/cal-xPYdgTx1eAaLACw/events?lt=light&tag=Range%20Day&utm_source=ppchi-events-rd" frameborder="0" style="width: 100%; height: 40em; border: 1px solid #bfcbda88; border-radius: 4px;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
-[Check out the full calendar of events](https://lu.ma/uoret9sp?utm_source=ppchi-events-rd){: .btn .btn--wide .btn--info .btn--large}
+[Check out the full calendar of events](https://luma.com/uoret9sp?utm_source=ppchi-events-rd){: .btn .btn--wide .btn--info .btn--large}

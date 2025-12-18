@@ -9,6 +9,6 @@ If you're new to firearms, join one of our [intro classes](/events/intro-class) 
 
 [<i class="fab fa-discord"></i>&nbsp;Join our Discord server](https://discord.gg/WJqHqWb3qv){: .btn .btn--wide .btn--info .btn--large}
 
-[<i class="fa-solid fa-calendar"></i>&nbsp;Subscribe to our Luma Calendar](https://lu.ma/pinkpistolschicago?utm_source=ppchi-home){: .btn .btn--wide .btn--info .btn--large}
+[<i class="fa-solid fa-calendar"></i>&nbsp;Subscribe to our Luma Calendar](https://luma.com/pinkpistolschicago?utm_source=ppchi-home){: .btn .btn--wide .btn--info .btn--large}
 
 [<i class="fa-solid fa-hand-holding-dollar"></i>&nbsp;Donate to support our mission](https://givebutter.com/ppchi?utm_source=ppchi-home-button){: .btn .btn--wide .btn--info .btn--large}
