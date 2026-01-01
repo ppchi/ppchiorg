@@ -5,9 +5,9 @@ main:
   - title: <i class="fa-solid fa-calendar"></i> Calendar
     description: View upcoming events and classes
     url: /calendar
-  - title: <i class="fa-solid fa-ticket-simple"></i> Events
-    description: See what type of events we host
-    url: /events
+  - title: <i class="fa-solid fa-bullhorn"></i> Updates
+    description: Get the latest updates on our activities
+    url: /updates
   - title:  <i class="fa-solid fa-hand-holding-dollar"></i> Donate
     description: Donate to help support our mission
     url: https://givebutter.com/ppchi?utm_source=ppchi-top-nav

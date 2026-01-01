@@ -82,6 +82,13 @@ collections:
       - advanced-class.md
 
 defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      show_date: true
+  # default
   - scope:
       path: ""
     values:
