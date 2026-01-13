@@ -32,6 +32,6 @@ Hey folks! Pink Pistols Chicago is growing rapidly. Here are some of the major t
 
 ​​As always, don't be afraid to reach out to me if you have any feedback about the events or if you need my help with anything firearms-related or otherwise. Hope to see you all soon! ❤️
 
-​​Raye
-Pink Pistols Chicago
+​Raye<br />
+Pink Pistols Chicago<br />
 ppchi.org

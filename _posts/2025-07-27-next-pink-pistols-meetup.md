@@ -13,6 +13,6 @@ Hey friends! We're going to be doing our next monthly range meetup at Shore Gall
 
 ​I hope to see you all there! 🏳️‍🌈 I'm also considering doing a monthly social meetup that doesn't involve shooting for those of us that just want to hang out and to include those of us who are interested in firearms, but don't have their FOID cards yet. If you've got good ideas or suggestions for the social meetup, let me know! 😊
 
-​Raye
-Pink Pistols Chicago
+​Raye<br />
+Pink Pistols Chicago<br />
 ppchi.org

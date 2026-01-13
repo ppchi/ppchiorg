@@ -38,6 +38,6 @@ Remember that we have a Discord server where a lot of us talk about firearms and
 
 As always, **don't be afraid to reach out** if you have any feedback about the events or if you need help with anything firearms-related or otherwise. Hope to see you all soon! ❤️
 
-Raye
-Pink Pistols Chicago
+​Raye<br />
+Pink Pistols Chicago<br />
 ppchi.org
