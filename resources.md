@@ -33,6 +33,8 @@ Management at these businesses have explicitly expressed to us their support for
 
 [Archetype of the Gun](https://archetypeofthegun.com/) - Lincolnwood, IL
 
+[Bethunium Training](https://www.bethunium.com/) - Chicago, IL
+
 [Maxon](https://www.maxonshooters.com/training/) - Des Plaines, IL
 
 [Titan Tactical](https://titan-tactical.com/) - Kankakee, IL
